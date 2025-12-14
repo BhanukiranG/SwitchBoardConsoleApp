@@ -29,7 +29,7 @@ namespace SwitchBoardConsoleApp.Services
                 return;
 
             if (choice == 0)
-                Environment.Exit(0);
+                Environment.Exit(0); // Exit the application immediately when the user selects 0
 
             var appliance = _appliances[choice - 1];
             ShowDeviceMenu(appliance);

@@ -25,6 +25,7 @@ namespace SwitchBoardConsoleApp
 
             while (true)
             {
+                System.Console.WriteLine("\nHe he...");
                 switchBoardService.DisplayMainMenu();
                 switchBoardService.HandleSelection();
             }
