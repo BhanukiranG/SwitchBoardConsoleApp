@@ -1,0 +1,15 @@
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/bin/Debug/net8.0/SwitchBoardConsoleApp
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/bin/Debug/net8.0/SwitchBoardConsoleApp.deps.json
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/bin/Debug/net8.0/SwitchBoardConsoleApp.runtimeconfig.json
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/bin/Debug/net8.0/SwitchBoardConsoleApp.dll
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/bin/Debug/net8.0/SwitchBoardConsoleApp.pdb
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/obj/Debug/net8.0/SwitchBoardConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/obj/Debug/net8.0/SwitchBoardConsoleApp.AssemblyInfoInputs.cache
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/obj/Debug/net8.0/SwitchBoardConsoleApp.AssemblyInfo.cs
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/obj/Debug/net8.0/SwitchBoardConsoleApp.csproj.CoreCompileInputs.cache
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/obj/Debug/net8.0/SwitchBoardConsoleApp.sourcelink.json
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/obj/Debug/net8.0/SwitchBoardConsoleApp.dll
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/obj/Debug/net8.0/refint/SwitchBoardConsoleApp.dll
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/obj/Debug/net8.0/SwitchBoardConsoleApp.pdb
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/obj/Debug/net8.0/SwitchBoardConsoleApp.genruntimeconfig.cache
+/Users/user/Dot Net Projects/SwitchBoardConsoleApp/obj/Debug/net8.0/ref/SwitchBoardConsoleApp.dll

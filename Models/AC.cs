@@ -1,7 +1,6 @@
 namespace SwitchBoardConsoleApp.Models
 {
-    public class AC : ApplianceBase
+    public class AC(int id) : ApplianceBase(id, "AC")
     {
-        public AC(int id) : base(id, "AC") { }
     }
 }

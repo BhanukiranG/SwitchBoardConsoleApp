@@ -2,18 +2,11 @@ using SwitchBoardConsoleApp.Interfaces;
 
 namespace SwitchBoardConsoleApp.Models
 {
-    public abstract class ApplianceBase : IAppliance
+    public abstract class ApplianceBase(int id, string name) : IAppliance
     {
-        public int Id { get; }
-        public string Name { get; }
-        public bool IsOn { get; private set; }
-
-        protected ApplianceBase(int id, string name)
-        {
-            Id = id;
-            Name = name;
-            IsOn = false;
-        }
+        public int Id { get; } = id;
+        public string Name { get; } = name;
+        public bool IsOn { get; private set; } = false;
 
         public void Toggle()
         {
