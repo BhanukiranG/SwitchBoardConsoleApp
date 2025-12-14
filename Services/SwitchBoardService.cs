@@ -4,7 +4,7 @@ namespace SwitchBoardConsoleApp.Services
 {
     public class SwitchBoardService
     {
-        private readonly List<IAppliance> _appliances = new();
+        private readonly List<IAppliance> _appliances = [];
 
         public void AddAppliance(IAppliance appliance)
         {
@@ -35,7 +35,7 @@ namespace SwitchBoardConsoleApp.Services
             ShowDeviceMenu(appliance);
         }
 
-        private void ShowDeviceMenu(IAppliance appliance)
+        private static void ShowDeviceMenu(IAppliance appliance)
         {
             Console.Clear();
             Console.WriteLine($"1. Switch {appliance.Name} {appliance.Id} {(appliance.IsOn ? "Off" : "On")}");

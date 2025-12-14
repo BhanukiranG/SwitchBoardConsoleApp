@@ -5,7 +5,7 @@ namespace SwitchBoardConsoleApp.Utils
         public static int ReadInt(string message)
         {
             Console.Write(message);
-            int.TryParse(Console.ReadLine(), out int value);
+            _ = int.TryParse(Console.ReadLine(), out int value);
             return value;
         }
     }
