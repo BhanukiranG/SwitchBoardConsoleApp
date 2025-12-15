@@ -6,7 +6,9 @@ namespace SwitchBoardConsoleApp.Models
     {
         public int Id { get; } = id;
         public string Name { get; } = name;
-        public bool IsOn { get; private set; } = false;
+        public bool IsOn { get; private set; }
+
+        public ApplianceType Type { get; }
 
         public void Toggle()
         {

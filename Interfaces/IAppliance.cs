@@ -1,9 +1,11 @@
+using SwitchBoardConsoleApp.Models;
+
 namespace SwitchBoardConsoleApp.Interfaces
 {
     public interface IAppliance
     {
         int Id { get; }
-        string Name { get; }
+        ApplianceType Type { get; }
         bool IsOn { get; }
 
         void Toggle();
