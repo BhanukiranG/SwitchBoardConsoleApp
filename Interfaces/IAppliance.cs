@@ -7,7 +7,6 @@ namespace SwitchBoardConsoleApp.Interfaces
         int Id { get; }
         ApplianceType Type { get; }
         bool IsOn { get; }
-
         void Toggle();
         string GetStatus();
     }
