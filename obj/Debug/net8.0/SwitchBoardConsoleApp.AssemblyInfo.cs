@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwitchBoardConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5860e7850e0b62f6f8b6d2f20b8fc307ad4c47cd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bafd0e615044c5f95d78d6779cfb9d49b5c6a8df")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwitchBoardConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwitchBoardConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
